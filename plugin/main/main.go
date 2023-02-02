@@ -1,7 +1,7 @@
 package main
 
 import (
-	plugin "github.com/decentralized-identity/go-ipfs-ds-azure/plugin"
+	plugin "github.com/logangirvin/go-ipfs-ds-azure/plugin"
 )
 
 // Plugins are the plugins to be included in this package
